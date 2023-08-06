@@ -9,7 +9,7 @@ commands:
   channel:
     aliases:
       - chan
-    description: The command for various channels.
+    description: The command for channel management.
     usage: /channel <join/leave/create/list> [subcommand]
   broadcast:
     aliases:

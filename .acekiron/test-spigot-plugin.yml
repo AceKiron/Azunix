@@ -1,2 +1,3 @@
 required-messages:
   - "\\[Azunix\\] Enabling Azunix v1\\.0"
+  - "Default channels size: 3"
