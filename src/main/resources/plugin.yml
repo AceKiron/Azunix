@@ -1,0 +1,18 @@
+name: Azunix
+version: '${project.version}'
+main: dev.mxace.azunix.Azunix
+api-version: 1.13
+
+description: A plugin with essential commands for your server
+
+commands:
+  channel:
+    aliases:
+      - chan
+    description: The command for various channels.
+    usage: /channel <join/leave/create/list> [subcommand]
+  broadcast:
+    aliases:
+      - bc
+    description: Broadcast a message to the whole server.
+    usage: /broadcast <message>
