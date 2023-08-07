@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"dev.mxace.azunix"},{"l":"dev.mxace.azunix.chatchannels"},{"l":"dev.mxace.azunix.commandhandlers"},{"l":"dev.mxace.azunix.handlers"}];updateSearchResults();
